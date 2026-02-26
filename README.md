@@ -103,8 +103,6 @@ Table: `tasks`
 | device_id   | String    | Identitas device |
 | title       | String    | Isi tugas |
 | completed   | Boolean   | Status selesai |
-| created_at  | DateTime  | Waktu dibuat |
-| updated_at  | DateTime  | Waktu update |
 
 ---
 
