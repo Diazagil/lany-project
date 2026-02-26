@@ -63,10 +63,6 @@ System: Task added successfully.
 ```
 view task
 ```
-atau
-```
-list task
-```
 
 **Flow:**
 ```
